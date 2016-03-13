@@ -1,0 +1,2 @@
+# Carpbot
+IRC bot
